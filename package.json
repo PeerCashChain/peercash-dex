@@ -1,0 +1,17 @@
+{
+  "name": "peercash-dex",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PeerCash DEX deploy: WPEER + canonical Uniswap V2 (factory/router).",
+  "scripts": {
+    "deploy": "node scripts/deploy.js"
+  },
+  "dependencies": {
+    "@uniswap/v2-core": "1.0.1",
+    "@uniswap/v2-periphery": "1.1.0-beta.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.0",
+    "solc": "^0.8.26"
+  }
+}

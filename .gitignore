@@ -1,0 +1,7 @@
+node_modules/
+.env
+# never commit keystores (encrypted, but keep them out of the repo anyway)
+UTC--*
+*.keystore
+keystore*.json
+# deployments/ is intentionally committed: frozen addresses are public artifacts.

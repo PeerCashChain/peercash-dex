@@ -1,0 +1,17 @@
+{
+  "chainId": 563321,
+  "deployer": "0x03c670916D984E8D2Ff278377b38a7B4a5933BBB",
+  "feeToSetter": "0x03c670916D984E8D2Ff278377b38a7B4a5933BBB",
+  "initCodeHash": "0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
+  "WPEER": "0x6E6b620cBD81EC4BF3cf39E93C2a17efC0bDE084",
+  "UniswapV2Factory": "0x857C4e1d19AD7eD50f814d7015eDE8479a78aCF3",
+  "UniswapV2Router02": "0xD2a7957d3899D853D414d0e455d88D8789f99Fe7",
+  "deployedAt": "2026-10-28T15:22:05.056Z",
+  "tokens": {
+    "PURR": {
+      "address": "0xcB005aB7a398c162a741511641c250e5378854be",
+      "name": "PeerCash Purr",
+      "decimals": 18
+    }
+  }
+}
